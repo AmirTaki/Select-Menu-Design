@@ -31,6 +31,7 @@
 
 #selectField img {
     width: 12px;
+    transition: transform .5s;
 }
 
 #list {

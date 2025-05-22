@@ -59,3 +59,7 @@
 .options:hover {
     background: rgba(255, 255, 255, .7);
 }
+
+.hide {
+    visibility: hidden;
+}

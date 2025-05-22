@@ -55,3 +55,7 @@
     top: 12px;
     left : 25px
 }
+
+.options:hover {
+    background: rgba(255, 255, 255, .7);
+}
